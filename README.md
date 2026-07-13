@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently just learning to code. Learning Apex language through Salesforce and Python for machine learning.<br>
+Work on code projects here and there for fun. Enjoying vibe coding.<br>
 
 
 ## 🌐 Socials:
